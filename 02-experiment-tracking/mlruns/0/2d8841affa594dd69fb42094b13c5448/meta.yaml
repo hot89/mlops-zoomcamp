@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/michael/Downloads/mlops/02-experiment-tracking/homework/mlruns/0/2d8841affa594dd69fb42094b13c5448/artifacts
+end_time: 1716841381783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d8841affa594dd69fb42094b13c5448
+run_name: lyrical-midge-527
+run_uuid: 2d8841affa594dd69fb42094b13c5448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716841357195
+status: 4
+tags: []
+user_id: michael
